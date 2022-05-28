@@ -1,2 +1,2 @@
 # scala
-Scala ;projects
+Scala projects
